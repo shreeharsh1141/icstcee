@@ -1,11 +1,13 @@
 
 import Base from '../components/Base/Base';
+import AboutHero from '../components/About/AboutHero';
 
 
 const About = () => {
     return(
         <Base>
-        <h1>About</h1>
+        
+        <AboutHero />
         </Base>
     )
 }

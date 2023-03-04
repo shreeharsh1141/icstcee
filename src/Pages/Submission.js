@@ -1,11 +1,12 @@
 
 import Base from '../components/Base/Base';
+import SubHero from '../components/Submission/SubHero';
 
 
 const Submission = () => {
     return(
         <Base>
-        <h1>Submission</h1>
+        <SubHero/>
         </Base>
     )
 }

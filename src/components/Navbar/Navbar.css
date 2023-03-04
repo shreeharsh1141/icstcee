@@ -41,6 +41,8 @@
 }
 
 
+
+
 @media screen and (max-width: 768px) {
     .nav-item{
         margin-right: 0px;
@@ -49,5 +51,8 @@
     padding: 10px;
     
    }
+   #navbarNav{
+    margin-top: 10px;
+}
 }
     
