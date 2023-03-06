@@ -2,7 +2,7 @@
   
 
  header.hero {
-  background-image: url('./../../../public/image/hero.jpg');
+  background-image: url('../../assets/image/hero.jpg');
   background-size: cover;
   background-position: center;
   height: 60%;

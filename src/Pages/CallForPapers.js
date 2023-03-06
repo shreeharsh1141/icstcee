@@ -1,11 +1,12 @@
 
 import Base from '../components/Base/Base';
+import CFPHero from '../components/CallForPaper/CFPHero';
 
 
 const CallForPapers = () => {
     return(
         <Base>
-        <h1>CallForPapers</h1>
+        <CFPHero/>
         </Base>
     )
 }
