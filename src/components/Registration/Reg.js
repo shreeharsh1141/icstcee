@@ -1,6 +1,7 @@
 import "./Reg.css";
 import QrImg from "../.././assets/image/payment-ieee.jpg";
 import PayHereImg from "../.././assets/image/payhere.png";
+import Fade from "react-reveal/Fade";
 
 const Reg = () => {
   return (
@@ -9,7 +10,7 @@ const Reg = () => {
         <div className="container">
           <div className="row">
             <div className="col-12 text-center hero-content">
-              <h1>ICSTCEE Registration 2022</h1>
+              <h1>ICSTCEE Registration 2023</h1>
             </div>
           </div>
         </div>
@@ -17,15 +18,18 @@ const Reg = () => {
 
       {/* ----------------------------- */}
 
+      <Fade bottom>
       <div className="container">
         <div className="row">
           <div className="col-12 FPS ">
-            <h2>
-              ICSTCEE 2022 registration can be done online Registration Fee:
-            </h2>
+            <h3>
+              ICSTCEE 2023 registration can be done online.<br></br><br></br>
+               Registration Fee:
+            </h3>
           </div>
         </div>
       </div>
+      </Fade>
 
       <br></br>
       <hr></hr>
@@ -33,6 +37,7 @@ const Reg = () => {
 
       {/* ----------------------------- */}
 
+      <Fade bottom>
       <div className="container">
         <div className="row">
           <div className="col-12 FPS ">
@@ -88,11 +93,13 @@ const Reg = () => {
           </div>
         </div>
       </div>
+      </Fade>
       <br></br>
       <hr></hr>
 
       {/* ----------------------------- */}
 
+      <Fade bottom>
       <div className="container">
         <div className="row">
           <div className="col-md-4">
@@ -137,6 +144,7 @@ const Reg = () => {
 
             </div>
             </div>
+            </Fade>
 
             <hr></hr>
             

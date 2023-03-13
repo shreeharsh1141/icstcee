@@ -1,4 +1,5 @@
 import "./CFPHero.css";
+import Fade from "react-reveal/Fade";
 
 const CFPHero = () => {
   return (
@@ -15,6 +16,7 @@ const CFPHero = () => {
 
       {/* ------------------------------ */}
 
+      <Fade bottom>
       <div className="container">
         <div className="row">
           <div className="col-12 ">
@@ -33,9 +35,11 @@ const CFPHero = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
       {/* ------------------------------ */}
 
+      <Fade bottom>
       <div className="container">
         <div className="row">
           <div className="col-12 ">
@@ -43,9 +47,9 @@ const CFPHero = () => {
             <p>
               The Third International Conference on Smart Technologies in
               Computing, Electrical and Electronics (ICSTCEE 2023) will be held
-              at REVA University, Bengaluru, India on 16 & 17th December 2023.
-              REVA University hosts this ICSTCEE conference as a part of REVA
-              Research Conclave (RRC) 2022. RRC is a great platform for
+              at REVA University, Bengaluru, India on 8 & 9 December 2023. REVA
+              University hosts this ICSTCEE conference as a part of REVA
+              Research Conclave (RRC) 2023. RRC is a great platform for
               encouraging the new generation towards research, innovation and
               entrepreneurship by listing to outstanding speakers from Academia,
               Entrepreneurs and Achievers from Industry. It also provides a
@@ -58,22 +62,24 @@ const CFPHero = () => {
               vehicles, and mobile applications. The technical program includes
               plenary sessions (invited keynote lectures), regular technical
               sessions, poster sessions, panel discussions and industry
-              exhibition.
+              exhibition.ll for
             </p>
           </div>
         </div>
       </div>
+      </Fade>
 
       {/* ------------------------------ */}
 
+      <Fade bottom>
       <div className="container">
         <div className="row">
           <div>
-            <div className="col-12 manuscript ">
+            {/* <div className="col-12 manuscript ">
               <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICSTCEE2022">
                 Upload You Manuscript
               </a>
-            </div>
+            </div> */}
             <br></br>
             <p>
               Papers accepted and presented in the conference will be submitted
@@ -83,14 +89,16 @@ const CFPHero = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
       {/* ------------------------------ */}
 
+      <Fade bottom>
       <div className="container">
         <div className="row">
           <div className="col-12">
             <div className="cal-info-head">
-              <h1>Call for paper</h1>
+              {/* <h1>Call for paper</h1> */}
               <p className="justify">
                 We welcome submissions for ICSTCEE’s technical program in the
                 following areas and not limited to:
@@ -99,9 +107,11 @@ const CFPHero = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
       {/* ------------------------------ */}
 
+      <Fade bottom>
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -220,29 +230,37 @@ const CFPHero = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
-        {/* ------------------------------ */}
+      {/* ------------------------------ */}
 
-        <hr></hr>
+      <hr></hr>
 
-        <div className="container">
+      <Fade bottom>
+      <div className="container">
         <div className="row">
           <div className="col-12">
-    <h1>Best Paper Award:</h1>
-    <div>
-        <ol>
-            <li>ICSTCEE Best Paper Award (Academia): INR 1,000 +Certificate</li>
-            <li>ICSTCEE Best Paper Award (Industry): INR 1,000 +Certificate</li>
-        </ol>
-    </div>
-    <p>
-    To identify the industry or the academia category, the affiliation of most authors will be considered. If there is tie, then it will be decided based on the place where the hardware was actually realized.
-    </p>
-
+            <h1>Best Paper Award:</h1>
+            <div>
+              <ol>
+                <li>
+                  ICSTCEE Best Paper Award (Academia): INR 1,000 +Certificate
+                </li>
+                <li>
+                  ICSTCEE Best Paper Award (Industry): INR 1,000 +Certificate
+                </li>
+              </ol>
             </div>
-            </div>
-            </div>
-
+            <p>
+              To identify the industry or the academia category, the affiliation
+              of most authors will be considered. If there is tie, then it will
+              be decided based on the place where the hardware was actually
+              realized.
+            </p>
+          </div>
+        </div>
+      </div>
+      </Fade>
     </>
   );
 };

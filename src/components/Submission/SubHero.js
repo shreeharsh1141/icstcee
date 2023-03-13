@@ -1,4 +1,5 @@
 import "./SubHero.css";
+import Fade from "react-reveal/Fade";
 
 const SubHero = () => {
   return (
@@ -13,20 +14,25 @@ const SubHero = () => {
         </div>
       </header>
 
+      
       <div className="container subhero">
         <div className="row">
+          <Fade bottom>
           <div className="col-12 text-center">
             <h2>Guidelines to Authors</h2>
             <p>
               Below are some useful instructions to assist the authors to submit
-              their papers for ICSTCEE 2022:
+              their papers for ICSTCEE 2023:
             </p>
           </div>
+          </Fade>
 
+
+          <Fade bottom>
           <div className="col-12 text-center">
             <h2>Paper Submission:</h2>
             <p>
-              Papers submitted to ICSTCEE 2022 shall contain original work by
+              Papers submitted to ICSTCEE 2023 shall contain original work by
               the author(s) that have not been published or submitted for
               publication elsewhere. The IEEE anti- plagiarism policy is
               applicable to all submissions. The author(s) are solely
@@ -53,11 +59,14 @@ const SubHero = () => {
               rejection of the paper. Embedded Type 1 or True Type fonts are
               required in the submitted PDF ×le as subset fonts. Type 3 fonts
               (bitmaps) will not be accepted. Authors can use the IEEE PDF
-              eXpress to generate compliant PDF Files for final submission. The
+              express to generate compliant PDF Files for final submission. The
               PDF express details will be shared in the later stage
             </p>
           </div>
+          </Fade>
 
+
+          <Fade bottom>
           <div
             className="col-12 text-center"
             style={{
@@ -68,24 +77,15 @@ const SubHero = () => {
             <p>
               All papers must be submitted in PDF or as a Microsoft Word
               Document via Microsoft CMT :{" "}
-              <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICSTCEE2022">
+              <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=/ICSTCEE2022">
                 Click Here
               </a>{" "}
             </p>
             <p>
-              The submitting authors may be required to create a Microsoft CMT
-              account before uploading the paper (if the submitting author does
-              not have an Microsoft CMT account). While uploading the paper, the
-              authors should provide the title of the paper, an abstract of no
-              more than 250 words and keywords in the respective text boxes in
-              the paper submission page. Please note that all accepted papers
-              that are registered and presented in the conference will be sent
-              for possible inclusion in IEEE Xplore. The authors must agree to
-              the IEEE copyright conditions and sign the IEEE copyright form as
-              part of the online submission process. All submitted papers will
-              be peer reviewed by the Technical Program Committees (TPC).
+            The submitting authors may be required to create a Microsoft CMT account before uploading the paper (if the submitting author does not have an Microsoft CMT account). While uploading the paper, the authors should provide the title of the paper, an abstract of no more than 250 words and keywords in the respective text boxes in the paper submission page. Please note that all accepted papers that are registered and presented in the conference will be sent for possible inclusion in IEEE Xplore. The authors must agree to the IEEE copyright conditions and sign the IEEE copyright form as part of the online submission process. All submitted papers will be peer reviewed by the Technical Program Committees (TPC).
             </p>
           </div>
+          </Fade>
         </div>
       </div>
     </>

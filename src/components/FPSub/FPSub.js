@@ -1,4 +1,5 @@
 import "./FPSub.css";
+import Fade from "react-reveal/Fade";
 
 
 const FPSub = () => {
@@ -19,19 +20,22 @@ const FPSub = () => {
 
      {/* ----------------------------- */}
 
+     <Fade bottom>
         <div className="container  ">
         <div className="row">
           <div className="col-12 FPS ">
             <h2>Final paper Submission</h2>
             <p>
-            When the review process has been completed, authors receive a notification of either acceptance or rejection of the submission. If the paper has been accepted, the authors can prepare a full paper that incorporates the reviewers suggestions. The format for the full papers is identical to the format for the initial paper except for the number of pages: the full paper has a required minimum length of five (5) pages and a maximum of six (6) pages.
+            When the review process has been completed, authors receive a notification of either acceptance or rejection of the submission. If the paper has been accepted, the authors can prepare a full paper that incorporates the reviewers’ suggestions. The format for the full papers is identical to the format for the initial paper except for the number of pages: the full paper has a required minimum length of five (5) pages and a maximum of six (6) pages.
             </p>
           </div>
         </div>
       </div>
+      </Fade>
 
            {/* ----------------------------- */}
 
+           <Fade bottom>
            <div className="container  FPS">
         <div className="row">
           <div className="col-12 ">
@@ -42,9 +46,12 @@ const FPSub = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
         {/* ----------------------------- */}
 
+
+        <Fade bottom>
         <div className="container">
         <div className="row">
           <div className="col-12 FPS ">
@@ -55,10 +62,11 @@ const FPSub = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
         {/* ----------------------------- */}
 
-        
+        <Fade bottom>
         <div className="container">
         <div className="row">
           <div className="col-12 FPS">
@@ -77,9 +85,11 @@ const FPSub = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
          {/* ----------------------------- */}
 
+         <Fade bottom>
          <div className="container">
         <div className="row">
           <div className="col-12 FPS">
@@ -98,9 +108,11 @@ const FPSub = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
           {/* ----------------------------- */}
 
+          <Fade bottom>
           <div className="container">
         <div className="row">
           <div className="col-12 FPS">
@@ -111,10 +123,11 @@ const FPSub = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
        {/* ----------------------------- */}
 
-        
+       <Fade bottom>
        <div className="container">
         <div className="row">
           <div className="col-12 FPS">
@@ -125,6 +138,7 @@ const FPSub = () => {
           </div>
         </div>
       </div>
+      </Fade>
 
       </div>
     )
