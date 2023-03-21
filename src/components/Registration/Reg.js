@@ -137,9 +137,8 @@ const Reg = () => {
             <code className="bank-left-color">Email id:</code><code>icstcee@reva.edu.in</code><br></br>
             <code className="bank-left-color">Mobile Number:</code><code><pre>+91 94482 39726 (Dr.Vishwanath R Hulipalled)<br></br>
                +91 74183 32829 (Dr.Devanathan M)<br></br>
-               +91 98948 83558 (Dr.G parthasarathy)<br></br>
-               +91 96775 82756 (Dr N Thillaiarasu)</pre></code>
-            <code className="bank-left-color">WhatsApp/Telegram:</code><code>+91 9677582756</code>
+               +91 99862 57582 (Dr. Hemanth.K.S)<br></br></pre></code>
+            
             </div>
 
             </div>

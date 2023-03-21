@@ -45,7 +45,7 @@ const CFPHero = () => {
           <div className="col-12 ">
             <h1>Call for Papers:</h1>
             <p>
-              The Third International Conference on Smart Technologies in
+              The Forth International Conference on Smart Technologies in
               Computing, Electrical and Electronics (ICSTCEE 2023) will be held
               at REVA University, Bengaluru, India on 8 & 9 December 2023. REVA
               University hosts this ICSTCEE conference as a part of REVA
@@ -84,7 +84,7 @@ const CFPHero = () => {
             <p>
               Papers accepted and presented in the conference will be submitted
               for possible inclusion into the
-              <b>IEEE Xplore® Digital Library.</b>
+              <b> IEEE Xplore® Digital Library.</b>
             </p>
           </div>
         </div>

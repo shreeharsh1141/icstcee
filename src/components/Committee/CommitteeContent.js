@@ -60,7 +60,7 @@ const CommitteeContent = () => {
               <hr></hr>
               <h3>General Chair(s):</h3>
               <p>
-                Dr. Senthil.S, Professor & Director, School of Computer Science
+                Dr. Senthil. S, Professor & Director, School of Computer Science
                 and Applications, REVA University, India
               </p>
               <p>
