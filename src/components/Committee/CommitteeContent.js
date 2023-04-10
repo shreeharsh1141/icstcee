@@ -1,5 +1,4 @@
-import "./CommitteeContent.css"
-
+import "./CommitteeContent.css";
 
 const CommitteeContent = () => {
   return (
@@ -50,12 +49,12 @@ const CommitteeContent = () => {
                 Bangalore, India
               </p>
               <p>
-                Dr. P. Deepa Shenoy , Chair-2022, IEEE Bangalore Sec-tion,
+                Dr. P. Deepa Shenoy , Chair-2022, IEEE Bangalore Section,
                 Bangalore, India
               </p>
               <p>
-                Mr. Puneet Kumar Mishra, Past Chair -2022, IEEE Bangalore
-                Section, Bangalore, India
+                Mr. Puneet Kumar Mishra, Chair-2021, IEEE Bangalore Section,
+                Bangalore, India
               </p>
               <hr></hr>
               <h3>General Chair(s):</h3>
@@ -199,8 +198,7 @@ const CommitteeContent = () => {
                 REVA University, Co-Chair
               </p>
               <p>
-                Mr. Raghavendra Prasad, Excom, IEEE Bangalore Section-2021,
-                Co-Chair
+                Mr. Raghavendra Prasad, Excom, IEEE Bangalore Section, Co-Chair
               </p>
               <p>
                 Dr. Vijayalakshmi A Lepakshi , Associate Professor, School of
@@ -283,6 +281,9 @@ const CommitteeContent = () => {
                 India, Co-Chair
               </p>
               <p>Mr. P V Swamy, Accounts, REVA University, India, Co–Chair</p>
+              <p>
+                Dr. Abhishek M. Appaji, Excom, Treasurer, IEEE Bangalore Section
+              </p>
               <hr></hr>
               <h3>Website Chairs</h3>
               <p>

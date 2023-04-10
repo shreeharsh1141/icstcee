@@ -109,15 +109,15 @@ const Hero = () => {
                 <h1>Important Dates:</h1>
                 <div>
                   <ul>
-                    <li>Paper Submission starts on 22-Aug-2023</li>
+                    <li>Paper Submission starts on 01-June-2023</li>
                     <li>
-                      Last Deadline for Early Bird Submission : 20-Sep-2023
+                      Last Deadline for Early Bird Submission : 30-June-2023
                     </li>
-                    <li>Last Deadline for Submission : 10-Oct-2023</li>
-                    <li>Notification of Acceptance: 06-Nov-2023</li>
+                    <li>Last Deadline for Submission : 15-Sep-2023</li>
+                    <li>Notification of Acceptance: 10-Nov-2023</li>
                     <li>
                       Submission of camera-ready paper and Registration:
-                      15-Nov-2023
+                      01-Nov-2023
                     </li>
                   </ul>
                 </div>
