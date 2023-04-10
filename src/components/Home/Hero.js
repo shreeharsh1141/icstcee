@@ -113,8 +113,8 @@ const Hero = () => {
                     <li>
                       Last Deadline for Early Bird Submission : 30-June-2023
                     </li>
-                    <li>Last Deadline for Submission : 15-Sep-2023</li>
-                    <li>Notification of Acceptance: 10-Nov-2023</li>
+                    <li>Last Deadline for Submission : 15-September-2023</li>
+                    <li>Notification of Acceptance: 10-October-2023</li>
                     <li>
                       Submission of camera-ready paper and Registration:
                       01-Nov-2023
