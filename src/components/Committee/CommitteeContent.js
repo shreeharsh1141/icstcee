@@ -76,10 +76,7 @@ const CommitteeContent = () => {
                 Dr. Hemanth.K.S, Associate Professor, School of CSA, REVA
                 University, India.
               </p>
-              <p>
-                Dr.Bharath Setturu, Assistant Professor, School of CSA, REVA
-                University, India.
-              </p>
+
               <p>
                 Dr. Shrikant S Tangade, Past Joint Secretary, IEEE Bangalore
                 Section.
@@ -247,10 +244,7 @@ const CommitteeContent = () => {
                 Dr.Syed Muzamil Basha, Assoc Prof, School of CSE, REVA
                 University, India,Co-Chair
               </p>
-              <p>
-                Dr. N Thrimoorthy, Assistant Professor, School of CSA, REVA
-                University,India
-              </p>
+
               <p>
                 Prof. R Pinaka Pani, Assistant Professor, School of CSA, REVA
                 University, India.
@@ -356,10 +350,7 @@ const CommitteeContent = () => {
                 Prof.Aryamol, Assistant Professor, School of CSA, REVA
                 University, India.
               </p>
-              <p>
-                Prof.Kusha K R, Assistant Professor, School of CSA, REVA
-                University, India.
-              </p>
+
               <p>
                 Prof.Aditya V, Assistant Professor, School of CSA, REVA
                 University, India.
@@ -380,10 +371,7 @@ const CommitteeContent = () => {
                 Prof. Pradeepa D, Assistant Professor, School of CSA, REVA
                 University, India.
               </p>
-              <p>
-                Prof. Pradeepa D, Assistant Professor, School of CSA, REVA
-                University, India.
-              </p>
+
               <p>
                 Prof. Anjali Surendran, Assistant Professor, School of CSA, REVA
                 University, India.
