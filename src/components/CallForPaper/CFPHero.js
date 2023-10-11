@@ -24,8 +24,8 @@ const CFPHero = () => {
               <ul>
                 <li>Paper Submission starts on 01-June-2023</li>
                 <li>Last Deadline for Early Bird Registration: 30-June-2023</li>
-                <li>Last Deadline for Submission of papers: 30-August-2023</li>
-                <li>Notification of Acceptance: 10-October-2023</li>
+                <li>Last Deadline for Submission of papers: 20-October-2023</li>
+                <li>Notification of Acceptance: 30-October-2023</li>
                 <li>
                   Submission of camera-ready paper and Registration: 01-Nov-2023
                 </li>
