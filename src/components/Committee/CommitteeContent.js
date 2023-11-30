@@ -23,8 +23,8 @@ const CommitteeContent = () => {
               <h3>Patron:</h3>
               <p>Dr. M. Dhanamjaya, Vice-Chancellor, REVA University, India</p>
               <p>
-                Dr. Vidya Shankar Shetty, Pro Vice-Chancellor, REVA University,
-                India
+                Dr. Shubha A, Pro Vice-Chancellor (Academics, Governance,
+                Training & Placement and IQAC), REVA University, India
               </p>
               <p>
                 Dr. R. C. Biradar, Pro Vice-Chancellor, REVA University, India
