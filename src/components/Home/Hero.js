@@ -10,11 +10,13 @@ const Hero = () => {
           <div class="row">
             <div class="col-12 text-center hero-content">
               <Fade bottom>
-                <h1>REVA RESEARCH CONCLAVE(RRC)-2023</h1>
+              <h1>
+                  5<sup>th</sup> International Conference on Smart Technologies
+                  in Computing, Electrical and Electronics (ICSTCEE) – 2025
+                </h1>
                 <p>
-                  Dec 8<sup>th</sup> & 9<sup>th</sup> - R&D Cell in association
-                  with the School of Computer Science and Applications,<br></br>{" "}
-                  REVA UNIVERSITY, Bangalore
+                  Organized by R&D Cell in association with the School of
+                  Computer Science and Applications, REVA UNIVERSITY, Bengaluru.
                 </p>
               </Fade>
             </div>
@@ -28,13 +30,12 @@ const Hero = () => {
           <div class="row">
             <div class="col-12 text-center hero2">
               <Fade bottom>
-                <h1>
-                  4<sup>th</sup> International Conference on Smart Technologies
-                  in Computing, Electrical and Electronics (ICSTCEE) – 2023
-                </h1>
+                
+                <h1>REVA RESEARCH CONCLAVE(RRC)-2023</h1>
                 <p>
-                  Organized by R&D Cell in association with the School of
-                  Computer Science and Applications, REVA UNIVERSITY, Bengaluru.
+                  Dec 12<sup>th</sup> & 13<sup>th</sup> - R&D Cell in association
+                  with the School of Computer Science and Applications,<br></br>{" "}
+                  REVA UNIVERSITY, Bangalore
                 </p>
               </Fade>
             </div>
@@ -45,13 +46,13 @@ const Hero = () => {
           <Fade bottom>
             <div class="row">
               <div class="col-12 justify hero2">
-                <h1>Welcome to ICSTCEE 2023 Conference...</h1>
+                <h1>Welcome to ICSTCEE 2025 Conference...</h1>
                 <p>
-                  The Fourth International Conference on Smart Technologies in
-                  Computing, Electrical and Electronics (ICSTCEE 2023) will be
-                  held at REVA University, Bengaluru, India on 8th & 9th
-                  December 2023. REVA University hosts this ICSTCEE conference
-                  as a part of REVA Research Conclave (RRC) 2023. RRC is a great
+                  The Fifth International Conference on Smart Technologies in
+                  Computing, Electrical and Electronics (ICSTCEE 2025) will be
+                  held at REVA University, Bengaluru, India on 12<sup>th</sup> & 13<sup>th</sup>
+                  December 2025. REVA University hosts this ICSTCEE conference
+                  as a part of REVA Research Conclave (RRC) 2025. RRC is a great
                   platform for encouraging the new generation towards research,
                   innovation and entrepreneurship by listing to outstanding
                   speakers from Academia, Entrepreneurs and Achievers from
@@ -81,6 +82,20 @@ const Hero = () => {
                 </h1>
                 <div>
                   <ul>
+                  <li>
+                      FORTH ICSTCEE 2023 papers published in IEEE Xplore
+                      Digital Library:
+                      <Link to="https://ieeexplore.ieee.org/xpl/conhome/9708545/proceeding">
+                        Click here
+                      </Link>{" "}
+                    </li>
+                    <li>
+                      THIRD ICSTCEE 2022 papers published in IEEE Xplore
+                      Digital Library:
+                      <Link to="https://ieeexplore.ieee.org/xpl/conhome/10584833/proceeding">
+                        Click here
+                      </Link>{" "}
+                    </li>
                     <li>
                       SECOND ICSTCEE 2021 papers published in IEEE Xplore
                       Digital Library:
@@ -109,15 +124,15 @@ const Hero = () => {
                 <h1>Important Dates:</h1>
                 <div>
                   <ul>
-                    <li>Paper Submission starts on 01-June-2023</li>
+                    <li>Paper Submission starts on 01-June-2025</li>
                     <li>
-                      Last Deadline for Early Bird Submission : 30-June-2023
+                      Last Deadline for Early Bird Submission : 30-June-2025
                     </li>
-                    <li>Last Deadline for Submission : 20-October-2023</li>
-                    <li>Notification of Acceptance: 30-October-2023</li>
+                    <li>Last Deadline for Submission : 20-October-2025</li>
+                    <li>Notification of Acceptance: 30-October-2025</li>
                     <li>
                       Submission of camera-ready paper and Registration:
-                      01-Nov-2023
+                      01-Nov-2025
                     </li>
                   </ul>
                 </div>
@@ -143,12 +158,6 @@ const Hero = () => {
                       Dr. Devanathan M, REVA University, India<br></br>
                       Email ID: devanathan.m@reva.edu.in<br></br>
                       Mobile: +91- 7418332829
-                    </li>
-
-                    <li>
-                      Dr. Hemanth.K.S, REVA University, India<br></br>
-                      Email ID: hemanth.ks@reva.edu.in<br></br>
-                      Mobile: +91- 9986257582
                     </li>
                   </ul>
                 </div>

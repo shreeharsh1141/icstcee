@@ -8,7 +8,7 @@ const CFPHero = () => {
         <div className="container">
           <div className="row">
             <div className="col-12 text-center hero-content">
-              <h1>Call For Paper</h1>
+              <h1>Call For Papers</h1>
             </div>
           </div>
         </div>
@@ -22,12 +22,12 @@ const CFPHero = () => {
             <div className="col-12 ">
               <h2>Important Dates:</h2>
               <ul>
-                <li>Paper Submission starts on 01-June-2023</li>
-                <li>Last Deadline for Early Bird Registration: 30-June-2023</li>
-                <li>Last Deadline for Submission of papers: 20-October-2023</li>
-                <li>Notification of Acceptance: 30-October-2023</li>
+                <li>Paper Submission starts on 01-June-2025</li>
+                <li>Last Deadline for Early Bird Registration: 30-June-2025</li>
+                <li>Last Deadline for Submission of papers: 20-October-2025</li>
+                <li>Notification of Acceptance: 30-October-2025</li>
                 <li>
-                  Submission of camera-ready paper and Registration: 01-Nov-2023
+                  Submission of camera-ready paper and Registration: 01-Nov-2025
                 </li>
               </ul>
             </div>
@@ -43,11 +43,11 @@ const CFPHero = () => {
             <div className="col-12 ">
               <h1>Call for Papers:</h1>
               <p>
-                The Forth International Conference on Smart Technologies in
-                Computing, Electrical and Electronics (ICSTCEE 2023) will be
-                held at REVA University, Bengaluru, India on 8 & 9 December
-                2023. REVA University hosts this ICSTCEE conference as a part of
-                REVA Research Conclave (RRC) 2023. RRC is a great platform for
+                The Fifth International Conference on Smart Technologies in
+                Computing, Electrical and Electronics (ICSTCEE 2025) will be
+                held at REVA University, Bengaluru, India on 12<sup>th</sup> & 13<sup>th</sup> December
+                2025. REVA University hosts this ICSTCEE conference as a part of
+                REVA Research Conclave (RRC) 2025. RRC is a great platform for
                 encouraging the new generation towards research, innovation and
                 entrepreneurship by listing to outstanding speakers from
                 Academia, Entrepreneurs and Achievers from Industry. It also

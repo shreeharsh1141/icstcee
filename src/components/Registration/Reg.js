@@ -10,7 +10,7 @@ const Reg = () => {
         <div className="container">
           <div className="row">
             <div className="col-12 text-center hero-content">
-              <h1>ICSTCEE Registration 2023</h1>
+              <h1>ICSTCEE Registration 2025</h1>
             </div>
           </div>
         </div>
@@ -23,7 +23,7 @@ const Reg = () => {
         <div className="row">
           <div className="col-12 FPS ">
             <h3>
-              ICSTCEE 2023 registration can be done online.<br></br><br></br>
+              ICSTCEE 2025 registration can be done online.<br></br><br></br>
                Registration Fee:
             </h3>
           </div>
@@ -137,7 +137,7 @@ const Reg = () => {
             <code className="bank-left-color">Email id:</code><code>icstcee@reva.edu.in</code><br></br>
             <code className="bank-left-color">Mobile Number:</code><code><pre>+91 94482 39726 (Dr.Vishwanath R Hulipalled)<br></br>
                +91 74183 32829 (Dr.Devanathan M)<br></br>
-               +91 99862 57582 (Dr. Hemanth.K.S)<br></br></pre></code>
+               </pre></code>
             
             </div>
 
