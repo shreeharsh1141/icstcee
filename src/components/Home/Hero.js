@@ -31,7 +31,7 @@ const Hero = () => {
             <div class="col-12 text-center hero2">
               <Fade bottom>
                 
-                <h1>REVA RESEARCH CONCLAVE(RRC)-2023</h1>
+                <h1>REVA RESEARCH CONCLAVE(RRC)-2025</h1>
                 <p>
                   Dec 12<sup>th</sup> & 13<sup>th</sup> - R&D Cell in association
                   with the School of Computer Science and Applications,<br></br>{" "}
@@ -50,7 +50,7 @@ const Hero = () => {
                 <p>
                   The Fifth International Conference on Smart Technologies in
                   Computing, Electrical and Electronics (ICSTCEE 2025) will be
-                  held at REVA University, Bengaluru, India on 12<sup>th</sup> & 13<sup>th</sup>
+                  held at REVA University, Bengaluru, India on 12<sup>th</sup> & 13<sup>th </sup>
                   December 2025. REVA University hosts this ICSTCEE conference
                   as a part of REVA Research Conclave (RRC) 2025. RRC is a great
                   platform for encouraging the new generation towards research,

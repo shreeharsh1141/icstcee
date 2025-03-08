@@ -56,7 +56,7 @@ const CommitteeContent = () => {
                 University, India.
               </p>
               <p>
-               Dr. Devanathan.M, EXCOM, IEEE, Bangalore Section
+               Dr. Devanathan M., EXCOM, IEEE, Bangalore Section
               </p>
               
               <hr></hr>
@@ -125,7 +125,7 @@ const CommitteeContent = () => {
                 University, India
               </p>
               <p>
-                Dr Bharati S H, Professor, School of ECE ,REVA University, India
+                Dr. Bharati S H, Professor, School of ECE ,REVA University, India
               </p>
               <hr></hr>
               <h3>Publication Committee:</h3>
@@ -140,11 +140,11 @@ const CommitteeContent = () => {
               <hr></hr>
               <h3>Local Organizing Committee:</h3>
               <p>
-                Dr.Syed Muzamil Basha, Assoc Prof, School of CSE, REVA
+                Dr. Syed Muzamil Basha, Assoc Prof, School of CSE, REVA
                 University, India,Co-Chair
               </p>
               <p>
-                Dr.Bhaskar Reddy, Professor, School of CSE, REVA University,
+                Dr. Bhaskar Reddy, Professor, School of CSE, REVA University,
                 India
               </p>
               <p>
@@ -157,7 +157,7 @@ const CommitteeContent = () => {
                 Mr. Vasu, DGM Accounts & Finance , REVA University, India, Chair
               </p>
               <p>
-                Prof.Lokesh.C.K, Assistant Professor, School of CSA, REVA
+                Prof. Lokesh.C.K, Assistant Professor, School of CSA, REVA
                 University, India. Co-Chair
               </p>
               <hr></hr>
